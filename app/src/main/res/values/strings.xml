@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppProject</string>
+    <string name="title_activity_maps" translatable="false">AppProject</string>
+    <string name="greeting_label">Hello There</string>
+    <string name="card_heading_label">Welcome to Plantation App</string>
+    <string name="card_heading_description">The application that used to display all information which includes locations, products, etc.</string>
+    <string name="temperature_label">Temperature</string>
+    <string name="light_label">Light</string>
+    <string name="all_products_label">Product</string>
+    <string name="sunflower_heading">Sunflower</string>
+    <string name="sunflower_description_label">The common sunflower (Helianthus annuus) is a large annual forb of the genus Helianthus. It is commonly grown as a crop for its...</string>
+    <string name="rating" translatable="false">4.8</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="close">Hide Rating</string>
+    <string name="open">Show Rating</string>
+    <string name="action_help">Help</string>
+    <string name="help_text">If you need help, contact our Support Department.</string>
+    <string name="action_language">Language</string>
+    <string name="support_phone" translatable="false">+628123456789</string>
+    <string name="dial_log_message">Can\'t resolve app for ACTION_DIAL Intent.</string>
+    <string name="products">Products</string>
+    <string name="maps">Location</string>
+    <string name="label_light">Light : %1$.2f</string>
+</resources>

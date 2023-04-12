@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppProject</string>
+    <string name="greeting_label">Привет</string>
+    <string name="card_heading_label">Добро пожаловать в приложение «Плантация»</string>
+    <string name="card_heading_description">Приложение, которое использовалось для отображения всей информации, включая местоположения, продукты и т. д.</string>
+    <string name="temperature_label">Температура</string>
+    <string name="light_label">Свет</string>
+    <string name="all_products_label">Продукт</string>
+    <string name="sunflower_heading">Подсолнухи</string>
+    <string name="sunflower_description_label">Подсолнечник обыкновенный (Helianthus annuus) — крупное однолетнее растение рода Helianthus. Его обычно выращивают как сельскохозяйственную культуру из-за его...</string>
+    <string name="close">Скрыть рейтинг</string>
+    <string name="open">Показать рейтинг</string>
+    <string name="action_help">Помощь</string>
+    <string name="help_text">Если вам нужна помощь, обратитесь в нашу службу поддержки.</string>
+    <string name="action_language">Язык</string>
+    <string name="dial_log_message">Не удается разрешить приложение для намерения ACTION_DIAL.</string>
+    <string name="products">Продукты</string>
+    <string name="maps">Расположение</string>
+    <string name="label_light">Свет: %1$.2f</string>
+</resources>
